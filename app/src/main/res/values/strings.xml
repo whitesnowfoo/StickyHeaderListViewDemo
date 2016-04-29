@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StickyHeaderListViewDemo</string>
+    <string name="filter_fenlei">分类</string>
+    <string name="filter_sort">排序</string>
+    <string name="filter_filter">筛选</string>
+    <string name="item_filter_left_title">标题</string>
+</resources>
